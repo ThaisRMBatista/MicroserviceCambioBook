@@ -6,7 +6,8 @@
 </p>
 
 # Funcionalidades
-`Cambio service`: Responsável pelos dados de variação de câmbio de moeda \n
+`Cambio service`: Responsável pelos dados de variação de câmbio de moeda.
+
 `Book service`  : Responsável pelas informações de livros, consumindo o serviço de câmbio para apresentar
     o preço do livro, na variação da moeda desejada.
 
